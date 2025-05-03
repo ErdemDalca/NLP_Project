@@ -1,0 +1,5 @@
+- Membuat Rangkuman Materi [[OSI Model]]
+- Membuat [[Game Design Document]]
+- Merancang [[Desain Level Game]]
+- Merekam dan Pembuatan [[Sound Game]]
+- Daftar [[Tugas Design]]

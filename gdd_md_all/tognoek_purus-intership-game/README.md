@@ -1,0 +1,22 @@
+## Game Design Document
+- What is the name of the game?
+    - Dangerous Fight
+- What is the game about?
+  - A LAN-based 4-player shooting game where each player controls a chibi character to battle and score points.
+- What is the art style of the game?
+  - Cute chibi style with bright, colorful visuals.
+- What is the goal of the game?
+  - Eliminate opponents to earn points. The player with the highest score after 5 minutes wins.
+- What should the player do (and how) in the game to reach the goal?
+  - Choose a character, customize stats, fight, and defeat other players to score points.
+- What is the game flow of the game?
+  - What will be shown after Player opens the game?
+    - Main menu with options: Create Room, Join Room (by entering a code), Instructions, and Settings.    
+  - How can the gameplay be started?
+    - Create or join a room by entering a room code, choose a character, customize stats, and ready up for the match.
+  - What will be shown after Player reaches the goal?
+    - A scoreboard showing the points, with the winner highlighted.
+  - How can Player continue to play the game?
+    - Join another match or create a new room.
+- What is the most special part of the game?
+  - Player can adjust parameter of the character.

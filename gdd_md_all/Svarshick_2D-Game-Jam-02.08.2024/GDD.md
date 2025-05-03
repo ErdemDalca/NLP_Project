@@ -1,0 +1,7 @@
+[[Game overview]]
+[[Readme]]
+[[Gameplay & mechanics]]
+[[Levels]]
+[[Characters]]
+[[Техническая документация]]
+[[UI]]

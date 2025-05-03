@@ -1,0 +1,1 @@
+* Przedmioty mogą być legalne lub nie, nie legalne są zabierane przez policję

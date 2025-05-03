@@ -1,0 +1,8 @@
+# Flowering and Fruiting
+Now that Tori is focusing on making images, I can start looking back to the systems of the game. Cleaning up the names of the variables of plants makes things much more enjoyable to work with.
+
+The next thing I need to add is flowering and fruiting. I do not know how exactly to implement this though. Some plants like annuals can only flower once at a specific time. The fruit then needs to grow and ripen alongside the plant until the plant is dying from old age. Plants like these must create flowers when young before progressing to mature. Fruit can then start growing on the plant immediately, replacing the flowers. They should ripen before the plant dies in any way unless the plant dies soon after starting the fruit. In most cases though, plants put as much energy into the fruit as they can when they are dying, so fruit needs to grow faster the worse the plant is doing.
+
+On the other hand, some plants like perennials produce flowers and fruit regardless of their age once they reach a certain age. Such plants must be able to grow flowers and fruit at all ages after infancy.
+
+The number of pollenators, tracked elsewhere, will influence the amount of fruit plants produce each season. If an annual plant ends up progressing to mature without starting fruit yet, it should start fruit but produce a terrible yield at the end of the season. This implies the number of pollenators should influence how quickly fruit starts once the plant has flowers and how much fruit the plant will yield at the end of the season. The number of fruit will be determined when starting fruit from flowers. Fruit can then be lost if the plant is not cared for well enough, but a viable plant can never produce no fruit without dying very early.
