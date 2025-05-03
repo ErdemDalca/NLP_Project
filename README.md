@@ -72,7 +72,7 @@ Tüm testler `test_word2vec_models.py` ve `test_tf_idf.py` içinde gerçekleşti
 ```bash
 pip install numpy pandas gensim nltk matplotlib scikit-learn
  
----
+```
 
 ### 📌 Notlar
 - `.model` dosyaları **büyük boyutlu olduğu için proejeden çıkartılmıştır**, test yapmadan önce önce modelleri gerekli kodlarla oluşturduğunuzdan emin olunuz. Dosya yollarının doğruluğunu kontrol ediniz.
@@ -88,5 +88,5 @@ pip install numpy pandas gensim nltk matplotlib scikit-learn
 - ✅ 16 adet farklı parametre kombinasyonuyla **Word2Vec modeli** üretildi.
 - ✅ **TF-IDF** hesaplamaları hem `lemmatized` hem `stemmed` veriler için ayrı ayrı yapıldı.
 - ✅ `"game"` kelimesine benzer en yakın kelimeler başarıyla analiz edildi.
-- ✅ **Zipf yasası** log-log grafiği üretildi.
+- ✅ **Zipf yasası** log-log grafikleri üretildi.
 - ✅ **Test scriptleri** yazıldı ve her modelin çıktıları kontrol edildi.
