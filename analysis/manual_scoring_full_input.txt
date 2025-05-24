@@ -1,0 +1,593 @@
+Model: sparse_lemma
+1.
+  Match Index     : 388
+  Similarity Score: 0.4738
+  Game            : A01752391_Videojuego
+  Base Sentence   : powerups affect board exchange pieces disappear pieces etc
+
+2.
+  Match Index     : 30479
+  Similarity Score: 0.4074
+  Game            : nadeem-shahzad_TheLastPieceStanding
+  Base Sentence   : pieces player controls king rotating cast fallen hero pieces
+
+3.
+  Match Index     : 37278
+  Similarity Score: 0.3861
+  Game            : Ragnaroknfthive_Ragnarok-Card-
+  Base Sentence   : fewer pieces
+
+4.
+  Match Index     : 30496
+  Similarity Score: 0.3821
+  Game            : nadeem-shahzad_TheLastPieceStanding
+  Base Sentence   : 4. enemy pieces enemy pieces varying movement speeds attack capabilities
+
+5.
+  Match Index     : 397
+  Similarity Score: 0.3433
+  Game            : A01752391_Videojuego
+  Base Sentence   : time piece selected clicked upon squares piece move lighted
+
+--------------------------------------------------
+
+Model: sparse_stem
+1.
+  Match Index     : 388
+  Similarity Score: 0.5079
+  Game            : A01752391_Videojuego
+  Base Sentence   : powerups affect board exchange pieces disappear pieces etc
+
+2.
+  Match Index     : 30479
+  Similarity Score: 0.4495
+  Game            : nadeem-shahzad_TheLastPieceStanding
+  Base Sentence   : pieces player controls king rotating cast fallen hero pieces
+
+3.
+  Match Index     : 397
+  Similarity Score: 0.4302
+  Game            : A01752391_Videojuego
+  Base Sentence   : time piece selected clicked upon squares piece move lighted
+
+4.
+  Match Index     : 30496
+  Similarity Score: 0.4149
+  Game            : nadeem-shahzad_TheLastPieceStanding
+  Base Sentence   : 4. enemy pieces enemy pieces varying movement speeds attack capabilities
+
+5.
+  Match Index     : 37278
+  Similarity Score: 0.4095
+  Game            : Ragnaroknfthive_Ragnarok-Card-
+  Base Sentence   : fewer pieces
+
+--------------------------------------------------
+
+Model: w2v_lemma_cbow_w10_d1000
+1.
+  Match Index     : 3417
+  Similarity Score: 0.9878
+  Game            : ankeocunghuy_Game-project-LockedOut
+  Base Sentence   : adding amount eerieness would lack hands body player control solely relying skill judgement
+
+2.
+  Match Index     : 24796
+  Similarity Score: 0.9861
+  Game            : LangzeL_Night-of-Amnesia
+  Base Sentence   : outcome player successfully removes doctors mask
+
+3.
+  Match Index     : 10107
+  Similarity Score: 0.9836
+  Game            : DraconianBeryl_incursions
+  Base Sentence   : leaving dice subtracting either allow players prune harmful dice require special rule remove native dice first
+
+4.
+  Match Index     : 36950
+  Similarity Score: 0.9834
+  Game            : quimnuss_eco
+  Base Sentence   : theres risk player sticks simple 3fold relationships
+
+5.
+  Match Index     : 24765
+  Similarity Score: 0.9822
+  Game            : LangzeL_Night-of-Amnesia
+  Base Sentence   : outcome triggers bad ending player caught meets demise hands doctor
+
+--------------------------------------------------
+
+Model: w2v_lemma_cbow_w10_d300
+1.
+  Match Index     : 3417
+  Similarity Score: 0.9866
+  Game            : ankeocunghuy_Game-project-LockedOut
+  Base Sentence   : adding amount eerieness would lack hands body player control solely relying skill judgement
+
+2.
+  Match Index     : 4868
+  Similarity Score: 0.9799
+  Game            : BurntToaster-Pirate15_Project-Prometheus
+  Base Sentence   : shard sunspark protected alchemy venture collect sunsparks restore sun ... primary mechanics turn cycle player makes action npcs make action player armed potion gun bunch different options depending unlocked far shadow small moveset tell advance i.e
+
+3.
+  Match Index     : 37709
+  Similarity Score: 0.9786
+  Game            : Redback-Operations_redback-documentation
+  Base Sentence   : example close competition players camera could zoom headtohead sprints critical overtaking moments
+
+4.
+  Match Index     : 23468
+  Similarity Score: 0.9785
+  Game            : kingpinzs_neuro-fusion-labs
+  Base Sentence   : actively playing players engage memory logic puzzlebased activities speed mining process move
+
+5.
+  Match Index     : 24816
+  Similarity Score: 0.9779
+  Game            : LangzeL_Night-of-Amnesia
+  Base Sentence   : outcome utilizing corridors looping mechanism player successfully approaches doctor behind uses scalpel attack
+
+--------------------------------------------------
+
+Model: w2v_lemma_cbow_w4_d1000
+1.
+  Match Index     : 9026
+  Similarity Score: 0.9917
+  Game            : DevKoenv_foundations-of-fantasy
+  Base Sentence   : reproduction population control npcs form families reproduce pass traits skills even memories offspring
+
+2.
+  Match Index     : 10107
+  Similarity Score: 0.9917
+  Game            : DraconianBeryl_incursions
+  Base Sentence   : leaving dice subtracting either allow players prune harmful dice require special rule remove native dice first
+
+3.
+  Match Index     : 17327
+  Similarity Score: 0.9916
+  Game            : GD-Asoka_GD-Asoka.github.io
+  Base Sentence   : solve added highlight walls passed sticky pete specific perspective i.e either topdown sidescroller
+
+4.
+  Match Index     : 1078
+  Similarity Score: 0.9907
+  Game            : aavegotchi_aavegotchi-wiki
+  Base Sentence   : artwork included fully animated battles aavegotchis monsters allowing witness epic fights see beloved gotchis action
+
+5.
+  Match Index     : 2195
+  Similarity Score: 0.9906
+  Game            : AICarope_XR-Extended-Reality-AR-Augmented-Reality-Project
+  Base Sentence   : engage recommended healthy behaviors taking walk relaxing
+
+--------------------------------------------------
+
+Model: w2v_lemma_cbow_w4_d300
+1.
+  Match Index     : 10107
+  Similarity Score: 0.9886
+  Game            : DraconianBeryl_incursions
+  Base Sentence   : leaving dice subtracting either allow players prune harmful dice require special rule remove native dice first
+
+2.
+  Match Index     : 17327
+  Similarity Score: 0.9885
+  Game            : GD-Asoka_GD-Asoka.github.io
+  Base Sentence   : solve added highlight walls passed sticky pete specific perspective i.e either topdown sidescroller
+
+3.
+  Match Index     : 20423
+  Similarity Score: 0.9877
+  Game            : j1m-ryan_Warchiefs
+  Base Sentence   : using probability mechanics decide whether hit therefore plan put automatic hit function player enemy 34 misses row keep game enjoyable
+
+4.
+  Match Index     : 37709
+  Similarity Score: 0.9871
+  Game            : Redback-Operations_redback-documentation
+  Base Sentence   : example close competition players camera could zoom headtohead sprints critical overtaking moments
+
+5.
+  Match Index     : 1078
+  Similarity Score: 0.9869
+  Game            : aavegotchi_aavegotchi-wiki
+  Base Sentence   : artwork included fully animated battles aavegotchis monsters allowing witness epic fights see beloved gotchis action
+
+--------------------------------------------------
+
+Model: w2v_lemma_skipgram_w10_d1000
+1.
+  Match Index     : 388
+  Similarity Score: 0.9188
+  Game            : A01752391_Videojuego
+  Base Sentence   : powerups affect board exchange pieces disappear pieces etc
+
+2.
+  Match Index     : 26917
+  Similarity Score: 0.9187
+  Game            : ltejedor_agents
+  Base Sentence   : game mechanics core gameplay loop 1. players create customize killer sockpuppet 2. game assigns puppet target eliminate 3. aicontrolled puppets navigate environment searching items hunting targets 4. last puppet standing wins game structure session length approximately 10 minutes per game player count 12 players turn system simultaneous turns puppets submit move actions resolve assassination mechanics puppet assigned target secret circular list players know immediate target next person list puppet eliminates target inherit targets next target chain continues one puppet remains character creation character elements 1. name players choose name sockpuppet 2. appearance customize sockpuppets visual appearance aigenerated avatar pictures based customization choices 3. personality bio players write strategic personality description text guides ai control puppet gameplay examples cautious opportunistic aggressive hunter resource hoarder 4. stats players allocate points across six core attributes health determines much damage puppet withstand stamina affects many actions performed resting strength influences combat effectiveness carrying capacity speed determines movement range per turn stealth affects ability move undetected ambush others perception determines ability spot hidden items puppets game environments game features three distinct settings 1. haunted mansion victorianstyle haunted house multiple floors hidden passages secret rooms antique weapons items fitting setting 2. abandoned factory industrial setting machinery hazards open spaces fewer hiding spots modern tools improvised weapons 3. secret lair underground complex hightech mysterious elements trap rooms security systems advanced equipment experimental items environment divided connected rooms puppets navigate turns
+
+3.
+  Match Index     : 41015
+  Similarity Score: 0.9152
+  Game            : Seraphendipity_WaS
+  Base Sentence   : regarding interaction two favor side numbers something said reactable easily conquered ai minions longterm planning preparation execution defeated simple reactions another player hence combat general risky costly unreactable readbased offense
+
+4.
+  Match Index     : 25631
+  Similarity Score: 0.9107
+  Game            : lextoumbourou_notes
+  Base Sentence   : side effects change constraints piece checkers moved opponents available moves limited
+
+5.
+  Match Index     : 18025
+  Similarity Score: 0.9087
+  Game            : glowkeeper_P3D
+  Base Sentence   : mechanics core game mechanics player solve main obstacles game movement player move around game world change alter point controls external hardware required play game map game controls weapons game weapons kinds used used ammunition work upgrades etc
+
+--------------------------------------------------
+
+Model: w2v_lemma_skipgram_w10_d300
+1.
+  Match Index     : 388
+  Similarity Score: 0.9114
+  Game            : A01752391_Videojuego
+  Base Sentence   : powerups affect board exchange pieces disappear pieces etc
+
+2.
+  Match Index     : 26917
+  Similarity Score: 0.9090
+  Game            : ltejedor_agents
+  Base Sentence   : game mechanics core gameplay loop 1. players create customize killer sockpuppet 2. game assigns puppet target eliminate 3. aicontrolled puppets navigate environment searching items hunting targets 4. last puppet standing wins game structure session length approximately 10 minutes per game player count 12 players turn system simultaneous turns puppets submit move actions resolve assassination mechanics puppet assigned target secret circular list players know immediate target next person list puppet eliminates target inherit targets next target chain continues one puppet remains character creation character elements 1. name players choose name sockpuppet 2. appearance customize sockpuppets visual appearance aigenerated avatar pictures based customization choices 3. personality bio players write strategic personality description text guides ai control puppet gameplay examples cautious opportunistic aggressive hunter resource hoarder 4. stats players allocate points across six core attributes health determines much damage puppet withstand stamina affects many actions performed resting strength influences combat effectiveness carrying capacity speed determines movement range per turn stealth affects ability move undetected ambush others perception determines ability spot hidden items puppets game environments game features three distinct settings 1. haunted mansion victorianstyle haunted house multiple floors hidden passages secret rooms antique weapons items fitting setting 2. abandoned factory industrial setting machinery hazards open spaces fewer hiding spots modern tools improvised weapons 3. secret lair underground complex hightech mysterious elements trap rooms security systems advanced equipment experimental items environment divided connected rooms puppets navigate turns
+
+3.
+  Match Index     : 41015
+  Similarity Score: 0.9072
+  Game            : Seraphendipity_WaS
+  Base Sentence   : regarding interaction two favor side numbers something said reactable easily conquered ai minions longterm planning preparation execution defeated simple reactions another player hence combat general risky costly unreactable readbased offense
+
+4.
+  Match Index     : 40995
+  Similarity Score: 0.9020
+  Game            : Seraphendipity_WaS
+  Base Sentence   : 1. soft reads mixture yomi game knowledge predicting handful likely options opponent covering general options single move set moves
+
+5.
+  Match Index     : 10121
+  Similarity Score: 0.9002
+  Game            : DraconianBeryl_incursions
+  Base Sentence   : options resolving broken status 1. time delay possibly options 2. possibility emergency assistance another character within certain timeframe 3. lose die one associated areas removing soul die affecting areas maximum health well rolls going forward
+
+--------------------------------------------------
+
+Model: w2v_lemma_skipgram_w4_d1000
+1.
+  Match Index     : 41015
+  Similarity Score: 0.9543
+  Game            : Seraphendipity_WaS
+  Base Sentence   : regarding interaction two favor side numbers something said reactable easily conquered ai minions longterm planning preparation execution defeated simple reactions another player hence combat general risky costly unreactable readbased offense
+
+2.
+  Match Index     : 25876
+  Similarity Score: 0.9502
+  Game            : lextoumbourou_notes
+  Base Sentence   : exert indirect control guide player experience still give feeling freedom indirect control method constraints giving player freedom choose limited selection choices
+
+3.
+  Match Index     : 388
+  Similarity Score: 0.9498
+  Game            : A01752391_Videojuego
+  Base Sentence   : powerups affect board exchange pieces disappear pieces etc
+
+4.
+  Match Index     : 34489
+  Similarity Score: 0.9485
+  Game            : PermissionlessGames_zigzagzog-prototype
+  Base Sentence   : tie scenarios detailed tiebreaking rules must defined maintain fairness instance two shapes tie majority either elimination occurs random elimination among tied may enforced
+
+5.
+  Match Index     : 43452
+  Similarity Score: 0.9480
+  Game            : thenintendodude_Delivering-Consequences-Game
+  Base Sentence   : push npcs patience long enough may get adverse reaction ... effect stats interactions similar elements animal crossing
+
+--------------------------------------------------
+
+Model: w2v_lemma_skipgram_w4_d300
+1.
+  Match Index     : 41015
+  Similarity Score: 0.9416
+  Game            : Seraphendipity_WaS
+  Base Sentence   : regarding interaction two favor side numbers something said reactable easily conquered ai minions longterm planning preparation execution defeated simple reactions another player hence combat general risky costly unreactable readbased offense
+
+2.
+  Match Index     : 25876
+  Similarity Score: 0.9414
+  Game            : lextoumbourou_notes
+  Base Sentence   : exert indirect control guide player experience still give feeling freedom indirect control method constraints giving player freedom choose limited selection choices
+
+3.
+  Match Index     : 26917
+  Similarity Score: 0.9403
+  Game            : ltejedor_agents
+  Base Sentence   : game mechanics core gameplay loop 1. players create customize killer sockpuppet 2. game assigns puppet target eliminate 3. aicontrolled puppets navigate environment searching items hunting targets 4. last puppet standing wins game structure session length approximately 10 minutes per game player count 12 players turn system simultaneous turns puppets submit move actions resolve assassination mechanics puppet assigned target secret circular list players know immediate target next person list puppet eliminates target inherit targets next target chain continues one puppet remains character creation character elements 1. name players choose name sockpuppet 2. appearance customize sockpuppets visual appearance aigenerated avatar pictures based customization choices 3. personality bio players write strategic personality description text guides ai control puppet gameplay examples cautious opportunistic aggressive hunter resource hoarder 4. stats players allocate points across six core attributes health determines much damage puppet withstand stamina affects many actions performed resting strength influences combat effectiveness carrying capacity speed determines movement range per turn stealth affects ability move undetected ambush others perception determines ability spot hidden items puppets game environments game features three distinct settings 1. haunted mansion victorianstyle haunted house multiple floors hidden passages secret rooms antique weapons items fitting setting 2. abandoned factory industrial setting machinery hazards open spaces fewer hiding spots modern tools improvised weapons 3. secret lair underground complex hightech mysterious elements trap rooms security systems advanced equipment experimental items environment divided connected rooms puppets navigate turns
+
+4.
+  Match Index     : 5779
+  Similarity Score: 0.9387
+  Game            : CodeInABottle_PSGJ-July-2024
+  Base Sentence   : players resources opposing monsters type well possible special effects player available push player use different shadow forms different turns
+
+5.
+  Match Index     : 388
+  Similarity Score: 0.9373
+  Game            : A01752391_Videojuego
+  Base Sentence   : powerups affect board exchange pieces disappear pieces etc
+
+--------------------------------------------------
+
+Model: w2v_stem_cbow_w10_d1000
+1.
+  Match Index     : 41015
+  Similarity Score: 0.9709
+  Game            : Seraphendipity_WaS
+  Base Sentence   : regarding interaction two favor side numbers something said reactable easily conquered ai minions longterm planning preparation execution defeated simple reactions another player hence combat general risky costly unreactable readbased offense
+
+2.
+  Match Index     : 20862
+  Similarity Score: 0.9635
+  Game            : Jamie-McCaw_Hackathon2023
+  Base Sentence   : malware general malware ransomware enemies steal encrypt data exploit exploits type malware takes advantage bugs vulnerabilities system order allow exploits creator take control
+
+3.
+  Match Index     : 3469
+  Similarity Score: 0.9581
+  Game            : ankeocunghuy_Game-project-LockedOut
+  Base Sentence   : server room noise would dominated repeated slam resumes rejected emphasising clerks power control
+
+4.
+  Match Index     : 9026
+  Similarity Score: 0.9567
+  Game            : DevKoenv_foundations-of-fantasy
+  Base Sentence   : reproduction population control npcs form families reproduce pass traits skills even memories offspring
+
+5.
+  Match Index     : 38656
+  Similarity Score: 0.9567
+  Game            : rooch-network_rooch
+  Base Sentence   : roochfish caught fish opensource fullchain game based rooch blockchain players buy control virtual fish multiple dynamic fish ponds
+
+--------------------------------------------------
+
+Model: w2v_stem_cbow_w10_d300
+1.
+  Match Index     : 20862
+  Similarity Score: 0.9670
+  Game            : Jamie-McCaw_Hackathon2023
+  Base Sentence   : malware general malware ransomware enemies steal encrypt data exploit exploits type malware takes advantage bugs vulnerabilities system order allow exploits creator take control
+
+2.
+  Match Index     : 41015
+  Similarity Score: 0.9665
+  Game            : Seraphendipity_WaS
+  Base Sentence   : regarding interaction two favor side numbers something said reactable easily conquered ai minions longterm planning preparation execution defeated simple reactions another player hence combat general risky costly unreactable readbased offense
+
+3.
+  Match Index     : 27970
+  Similarity Score: 0.9576
+  Game            : MatteoBriscini_BeliEves-videogameDesingAndProgramming-Polimi
+  Base Sentence   : defense protocol also implemented prevent surviving souls reclaiming control mechas discovered
+
+4.
+  Match Index     : 38656
+  Similarity Score: 0.9574
+  Game            : rooch-network_rooch
+  Base Sentence   : roochfish caught fish opensource fullchain game based rooch blockchain players buy control virtual fish multiple dynamic fish ponds
+
+5.
+  Match Index     : 31042
+  Similarity Score: 0.9523
+  Game            : Nicolas-EM_Troops
+  Base Sentence   : therefore able monitor opponents movements unless units specifically tasked occupying territory purpose
+
+--------------------------------------------------
+
+Model: w2v_stem_cbow_w4_d1000
+1.
+  Match Index     : 40350
+  Similarity Score: 0.9847
+  Game            : saugata-biswas_Astroventure
+  Base Sentence   : bots listen respond master npc
+
+2.
+  Match Index     : 41015
+  Similarity Score: 0.9830
+  Game            : Seraphendipity_WaS
+  Base Sentence   : regarding interaction two favor side numbers something said reactable easily conquered ai minions longterm planning preparation execution defeated simple reactions another player hence combat general risky costly unreactable readbased offense
+
+3.
+  Match Index     : 9026
+  Similarity Score: 0.9827
+  Game            : DevKoenv_foundations-of-fantasy
+  Base Sentence   : reproduction population control npcs form families reproduce pass traits skills even memories offspring
+
+4.
+  Match Index     : 7192
+  Similarity Score: 0.9826
+  Game            : DaDarkWizard_TextAdventure
+  Base Sentence   : guilds world guilds control certain areas land mass various rules enforced
+
+5.
+  Match Index     : 20862
+  Similarity Score: 0.9824
+  Game            : Jamie-McCaw_Hackathon2023
+  Base Sentence   : malware general malware ransomware enemies steal encrypt data exploit exploits type malware takes advantage bugs vulnerabilities system order allow exploits creator take control
+
+--------------------------------------------------
+
+Model: w2v_stem_cbow_w4_d300
+1.
+  Match Index     : 41015
+  Similarity Score: 0.9824
+  Game            : Seraphendipity_WaS
+  Base Sentence   : regarding interaction two favor side numbers something said reactable easily conquered ai minions longterm planning preparation execution defeated simple reactions another player hence combat general risky costly unreactable readbased offense
+
+2.
+  Match Index     : 20862
+  Similarity Score: 0.9822
+  Game            : Jamie-McCaw_Hackathon2023
+  Base Sentence   : malware general malware ransomware enemies steal encrypt data exploit exploits type malware takes advantage bugs vulnerabilities system order allow exploits creator take control
+
+3.
+  Match Index     : 40350
+  Similarity Score: 0.9816
+  Game            : saugata-biswas_Astroventure
+  Base Sentence   : bots listen respond master npc
+
+4.
+  Match Index     : 7192
+  Similarity Score: 0.9766
+  Game            : DaDarkWizard_TextAdventure
+  Base Sentence   : guilds world guilds control certain areas land mass various rules enforced
+
+5.
+  Match Index     : 38656
+  Similarity Score: 0.9762
+  Game            : rooch-network_rooch
+  Base Sentence   : roochfish caught fish opensource fullchain game based rooch blockchain players buy control virtual fish multiple dynamic fish ponds
+
+--------------------------------------------------
+
+Model: w2v_stem_skipgram_w10_d1000
+1.
+  Match Index     : 45064
+  Similarity Score: 0.9138
+  Game            : twilwa_MoreRunner
+  Base Sentence   : opposition weyland progression paths renegade gutterpunk specializing physical confrontation front door approaches renegade hacker specializing viruses digital sabotage mechanics virus programs strengthen time destructive icebreakers breaking ice efficiently causing damage abilities generating chaos random beneficial effects strength disadvantaged positions special abilities wrecker destroy obstacles would normally impassable viral propagation virus counters grow faster riot starter trigger civil unrest territories increasing danger disabling surveillance weaknesses selfdamage powerful effects less predictable outcomes risk system crashes collateral damage signature cards immolation trash program destroy piece ice scrubber reduce cost trashing cards hivemind share virus counters programs shaper green color scheme green tones 0ca75d 57d9a3 ebf5ee aesthetic organic meets technical elegant solutions community philosophy right tool right job
+
+2.
+  Match Index     : 45056
+  Similarity Score: 0.9129
+  Game            : twilwa_MoreRunner
+  Base Sentence   : opposition flexible adapts runner types role hybrid faction function commander soldier mechanics deploy bioroid npcs function like runner characters serve corporate interests enhanced recursion capabilities reusing trashed cards click efficiency extra actions per turn direct participation instanced missions android proxies weaknesses higher operational costs dependence synergistic combinations vulnerabilities specialized breakers jinteki color scheme redpurple 8a1a4b bb4575 ffd6e5 aesthetic traditional yet futuristic elegant deceptive philosophy every action take one anticipated
+
+3.
+  Match Index     : 45062
+  Similarity Score: 0.9116
+  Game            : twilwa_MoreRunner
+  Base Sentence   : criminal blue color scheme blue tones 0a5eb0 2994e6 d8e1e9 aesthetic sleek professional urbane hightech subtle philosophy use front door back door open opposition jinteki progression paths face infiltrator specializing stealth social engineering face fixer specializing connections resource management mechanics enhanced credit generation 150 base rate connection networks providing information bypass options special black market equipment access reduced costs evasion abilities avoid security systems special abilities silver tongue retry failed social checks per mission ghost temporarily disappear security view bank run signature card provides massive economic advantage risk tagged weaknesses tag vulnerability increases trace strength tag penalties severe loss connection cards inefficient direct confrontation signature cards inside job bypass first piece ice encountered run security testing gain credits successful runs specific servers emergency shutdown derez piece ice encountered turn anarch red color scheme redorange tones d02d24 f77f00 fcbf49 aesthetic raw chaotic diy juryrigged technology philosophy system broken
+
+4.
+  Match Index     : 41015
+  Similarity Score: 0.9088
+  Game            : Seraphendipity_WaS
+  Base Sentence   : regarding interaction two favor side numbers something said reactable easily conquered ai minions longterm planning preparation execution defeated simple reactions another player hence combat general risky costly unreactable readbased offense
+
+5.
+  Match Index     : 26917
+  Similarity Score: 0.9083
+  Game            : ltejedor_agents
+  Base Sentence   : game mechanics core gameplay loop 1. players create customize killer sockpuppet 2. game assigns puppet target eliminate 3. aicontrolled puppets navigate environment searching items hunting targets 4. last puppet standing wins game structure session length approximately 10 minutes per game player count 12 players turn system simultaneous turns puppets submit move actions resolve assassination mechanics puppet assigned target secret circular list players know immediate target next person list puppet eliminates target inherit targets next target chain continues one puppet remains character creation character elements 1. name players choose name sockpuppet 2. appearance customize sockpuppets visual appearance aigenerated avatar pictures based customization choices 3. personality bio players write strategic personality description text guides ai control puppet gameplay examples cautious opportunistic aggressive hunter resource hoarder 4. stats players allocate points across six core attributes health determines much damage puppet withstand stamina affects many actions performed resting strength influences combat effectiveness carrying capacity speed determines movement range per turn stealth affects ability move undetected ambush others perception determines ability spot hidden items puppets game environments game features three distinct settings 1. haunted mansion victorianstyle haunted house multiple floors hidden passages secret rooms antique weapons items fitting setting 2. abandoned factory industrial setting machinery hazards open spaces fewer hiding spots modern tools improvised weapons 3. secret lair underground complex hightech mysterious elements trap rooms security systems advanced equipment experimental items environment divided connected rooms puppets navigate turns
+
+--------------------------------------------------
+
+Model: w2v_stem_skipgram_w10_d300
+1.
+  Match Index     : 45064
+  Similarity Score: 0.9111
+  Game            : twilwa_MoreRunner
+  Base Sentence   : opposition weyland progression paths renegade gutterpunk specializing physical confrontation front door approaches renegade hacker specializing viruses digital sabotage mechanics virus programs strengthen time destructive icebreakers breaking ice efficiently causing damage abilities generating chaos random beneficial effects strength disadvantaged positions special abilities wrecker destroy obstacles would normally impassable viral propagation virus counters grow faster riot starter trigger civil unrest territories increasing danger disabling surveillance weaknesses selfdamage powerful effects less predictable outcomes risk system crashes collateral damage signature cards immolation trash program destroy piece ice scrubber reduce cost trashing cards hivemind share virus counters programs shaper green color scheme green tones 0ca75d 57d9a3 ebf5ee aesthetic organic meets technical elegant solutions community philosophy right tool right job
+
+2.
+  Match Index     : 45056
+  Similarity Score: 0.9065
+  Game            : twilwa_MoreRunner
+  Base Sentence   : opposition flexible adapts runner types role hybrid faction function commander soldier mechanics deploy bioroid npcs function like runner characters serve corporate interests enhanced recursion capabilities reusing trashed cards click efficiency extra actions per turn direct participation instanced missions android proxies weaknesses higher operational costs dependence synergistic combinations vulnerabilities specialized breakers jinteki color scheme redpurple 8a1a4b bb4575 ffd6e5 aesthetic traditional yet futuristic elegant deceptive philosophy every action take one anticipated
+
+3.
+  Match Index     : 26917
+  Similarity Score: 0.9059
+  Game            : ltejedor_agents
+  Base Sentence   : game mechanics core gameplay loop 1. players create customize killer sockpuppet 2. game assigns puppet target eliminate 3. aicontrolled puppets navigate environment searching items hunting targets 4. last puppet standing wins game structure session length approximately 10 minutes per game player count 12 players turn system simultaneous turns puppets submit move actions resolve assassination mechanics puppet assigned target secret circular list players know immediate target next person list puppet eliminates target inherit targets next target chain continues one puppet remains character creation character elements 1. name players choose name sockpuppet 2. appearance customize sockpuppets visual appearance aigenerated avatar pictures based customization choices 3. personality bio players write strategic personality description text guides ai control puppet gameplay examples cautious opportunistic aggressive hunter resource hoarder 4. stats players allocate points across six core attributes health determines much damage puppet withstand stamina affects many actions performed resting strength influences combat effectiveness carrying capacity speed determines movement range per turn stealth affects ability move undetected ambush others perception determines ability spot hidden items puppets game environments game features three distinct settings 1. haunted mansion victorianstyle haunted house multiple floors hidden passages secret rooms antique weapons items fitting setting 2. abandoned factory industrial setting machinery hazards open spaces fewer hiding spots modern tools improvised weapons 3. secret lair underground complex hightech mysterious elements trap rooms security systems advanced equipment experimental items environment divided connected rooms puppets navigate turns
+
+4.
+  Match Index     : 41882
+  Similarity Score: 0.9051
+  Game            : Slideshow776_Love-Entity
+  Base Sentence   : abilities character player able choose two kinds love generations clicking big heart managing auto generative assets
+
+5.
+  Match Index     : 45062
+  Similarity Score: 0.9046
+  Game            : twilwa_MoreRunner
+  Base Sentence   : criminal blue color scheme blue tones 0a5eb0 2994e6 d8e1e9 aesthetic sleek professional urbane hightech subtle philosophy use front door back door open opposition jinteki progression paths face infiltrator specializing stealth social engineering face fixer specializing connections resource management mechanics enhanced credit generation 150 base rate connection networks providing information bypass options special black market equipment access reduced costs evasion abilities avoid security systems special abilities silver tongue retry failed social checks per mission ghost temporarily disappear security view bank run signature card provides massive economic advantage risk tagged weaknesses tag vulnerability increases trace strength tag penalties severe loss connection cards inefficient direct confrontation signature cards inside job bypass first piece ice encountered run security testing gain credits successful runs specific servers emergency shutdown derez piece ice encountered turn anarch red color scheme redorange tones d02d24 f77f00 fcbf49 aesthetic raw chaotic diy juryrigged technology philosophy system broken
+
+--------------------------------------------------
+
+Model: w2v_stem_skipgram_w4_d1000
+1.
+  Match Index     : 41015
+  Similarity Score: 0.9535
+  Game            : Seraphendipity_WaS
+  Base Sentence   : regarding interaction two favor side numbers something said reactable easily conquered ai minions longterm planning preparation execution defeated simple reactions another player hence combat general risky costly unreactable readbased offense
+
+2.
+  Match Index     : 10107
+  Similarity Score: 0.9469
+  Game            : DraconianBeryl_incursions
+  Base Sentence   : leaving dice subtracting either allow players prune harmful dice require special rule remove native dice first
+
+3.
+  Match Index     : 41002
+  Similarity Score: 0.9458
+  Game            : Seraphendipity_WaS
+  Base Sentence   : brought practise memorize familiarize options allow quicker execution based given input ie pattern recognition well making soft predicitions opponent anticipated counter effectively turn simple reaction
+
+4.
+  Match Index     : 29280
+  Similarity Score: 0.9448
+  Game            : misae717_HighRise
+  Base Sentence   : attack speed advanced grapple grapple enemy faces unique attacks references inspirations octopus kid nier nine sols slicing mechanics portal wheatley celeste camera platforming feel cuphead movement responsiveness additional features need read ai boss speech humanity theme cancelled nine solsstyle slicing without movement health system hearts player boss slice animations two types damage hit deals one heart open questions test tune air time movement responsiveness finalize boss attack patterns vulnerability windows decide inclusion special meter advanced grapple playtest level enemy balance
+
+5.
+  Match Index     : 26917
+  Similarity Score: 0.9441
+  Game            : ltejedor_agents
+  Base Sentence   : game mechanics core gameplay loop 1. players create customize killer sockpuppet 2. game assigns puppet target eliminate 3. aicontrolled puppets navigate environment searching items hunting targets 4. last puppet standing wins game structure session length approximately 10 minutes per game player count 12 players turn system simultaneous turns puppets submit move actions resolve assassination mechanics puppet assigned target secret circular list players know immediate target next person list puppet eliminates target inherit targets next target chain continues one puppet remains character creation character elements 1. name players choose name sockpuppet 2. appearance customize sockpuppets visual appearance aigenerated avatar pictures based customization choices 3. personality bio players write strategic personality description text guides ai control puppet gameplay examples cautious opportunistic aggressive hunter resource hoarder 4. stats players allocate points across six core attributes health determines much damage puppet withstand stamina affects many actions performed resting strength influences combat effectiveness carrying capacity speed determines movement range per turn stealth affects ability move undetected ambush others perception determines ability spot hidden items puppets game environments game features three distinct settings 1. haunted mansion victorianstyle haunted house multiple floors hidden passages secret rooms antique weapons items fitting setting 2. abandoned factory industrial setting machinery hazards open spaces fewer hiding spots modern tools improvised weapons 3. secret lair underground complex hightech mysterious elements trap rooms security systems advanced equipment experimental items environment divided connected rooms puppets navigate turns
+
+--------------------------------------------------
+
+Model: w2v_stem_skipgram_w4_d300
+1.
+  Match Index     : 41015
+  Similarity Score: 0.9404
+  Game            : Seraphendipity_WaS
+  Base Sentence   : regarding interaction two favor side numbers something said reactable easily conquered ai minions longterm planning preparation execution defeated simple reactions another player hence combat general risky costly unreactable readbased offense
+
+2.
+  Match Index     : 41882
+  Similarity Score: 0.9390
+  Game            : Slideshow776_Love-Entity
+  Base Sentence   : abilities character player able choose two kinds love generations clicking big heart managing auto generative assets
+
+3.
+  Match Index     : 23433
+  Similarity Score: 0.9326
+  Game            : kingjaceo_IntlBomberCo
+  Base Sentence   : examples contracts delivery settlement wants agent deliver surplus materialsproducts anyone take acquire materials critical shorrtage destroy target settlement faction wants specific building ship destroyed explore area settlement faction wants report business certain region defend settlement imminent attack leaves settlement need protection controls player control distribution stormpower ship much allocated wind vs lightning vs water vs sand affects quickly ship moves turns much damage ship
+
+4.
+  Match Index     : 29280
+  Similarity Score: 0.9324
+  Game            : misae717_HighRise
+  Base Sentence   : attack speed advanced grapple grapple enemy faces unique attacks references inspirations octopus kid nier nine sols slicing mechanics portal wheatley celeste camera platforming feel cuphead movement responsiveness additional features need read ai boss speech humanity theme cancelled nine solsstyle slicing without movement health system hearts player boss slice animations two types damage hit deals one heart open questions test tune air time movement responsiveness finalize boss attack patterns vulnerability windows decide inclusion special meter advanced grapple playtest level enemy balance
+
+5.
+  Match Index     : 45064
+  Similarity Score: 0.9322
+  Game            : twilwa_MoreRunner
+  Base Sentence   : opposition weyland progression paths renegade gutterpunk specializing physical confrontation front door approaches renegade hacker specializing viruses digital sabotage mechanics virus programs strengthen time destructive icebreakers breaking ice efficiently causing damage abilities generating chaos random beneficial effects strength disadvantaged positions special abilities wrecker destroy obstacles would normally impassable viral propagation virus counters grow faster riot starter trigger civil unrest territories increasing danger disabling surveillance weaknesses selfdamage powerful effects less predictable outcomes risk system crashes collateral damage signature cards immolation trash program destroy piece ice scrubber reduce cost trashing cards hivemind share virus counters programs shaper green color scheme green tones 0ca75d 57d9a3 ebf5ee aesthetic organic meets technical elegant solutions community philosophy right tool right job
+
+--------------------------------------------------
